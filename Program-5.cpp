@@ -11,7 +11,7 @@ int main()
 int age;//declare the variable
 std::cout<<"Enter the age";
 std::cin>>age;
-if|age>=18|//complete the missing part to check the condition
+if(age>=18)//complete the missing part to check the condition
 	{
 		std::cout<<"person is eligible for voting";
 	}
